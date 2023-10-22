@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-I'm currently making a medical transportation platform with Node.js, Ruby, Angular, React and lead teams as a Tech Lead.
-
-I also interested in functional programming and augmented/mixed reality.
+I'm Denis, deeply involved in building an advanced medical transportation platform. In my tech toolkit, I work with Ruby, TypeScript/JavaScript and Go. My interests include distributed systems, functional programming, particularly with Clojure and decentralized networking / indieweb.
